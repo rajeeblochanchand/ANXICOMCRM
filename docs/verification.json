@@ -1,0 +1,8 @@
+{
+  "frontendTypecheck": "passed",
+  "frontendProductionBuild": "passed",
+  "backendCompilation": "not_verified_sdk_unavailable",
+  "databaseIntegration": "not_verified",
+  "browserQA": "not_verified",
+  "deployed": false
+}
